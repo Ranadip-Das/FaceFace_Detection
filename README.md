@@ -1,2 +1,2 @@
-# FaceFace_Detection
-Detecting frontal face using OpenCv.
+# Face_Detection
+Detecting frontal faces of an image using OpenCv.
